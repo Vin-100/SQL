@@ -1,4 +1,5 @@
 CREATE DATABASE dataia_Nancy;
+-- commentaire
 
 DROP TABLE dataia_Nancy.dataia_Nancy;
 
